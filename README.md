@@ -1,4 +1,6 @@
-Group 5 final supporting documents.
+## STAT3612 GP final supporting documents.
+
+### Author: Xu Haozhou
 
 1. The Original data are stored in ./task1 ./task2, please copy the directories to the current directory.
 
